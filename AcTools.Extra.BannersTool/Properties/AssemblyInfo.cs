@@ -15,7 +15,7 @@ using CommandLine.Text;
 [assembly: AssemblyCopyright("Copyright © AcClub, 2015-2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: AssemblyLicense("Licensed under the MIT License")]
+[assembly: AssemblyLicense("Licensed under the MS-PL License")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
