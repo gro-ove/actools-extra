@@ -1,0 +1,16 @@
+ks_alfa_romeo_155_v6: Windows_D_internal.png
+ks_porsche_911_gt3_r_2016: EXT_Banner.dds
+ks_porsche_911_carrera_rsr: INT_Glass_sponsor.dds
+ks_porsche_962c_longtail: glasslabel_inside.dds
+ks_porsche_962c_shorttail: glasslabel_inside.dds
+ks_porsche_cayman_gt4_clubsport: EXT_banner.dds
+ks_porsche_935_78_moby_dick: EXT_Banner.dds
+ks_bmw_m235i_racing: window_INT_trasp.dds
+ks_audi_tt_cup: EXT_banner.dds
+ks_audi_tt_vln: EXT_Sponsor_GLASS.dds
+ferrari_599xxevo: Windows_D.dds
+ks_mazda_mx5_cup: EXT_Glass_BANNER.dds
+mercedes_sls_gt3: INT_Windscreen_TEXT.dds
+ks_mercedes_190_evo2: Racing_Banner.dds
+ks_mercedes_c9: INT_Glass_logo.png
+ks_nissan_gtr_gt3: GLASS_Banner.dds
