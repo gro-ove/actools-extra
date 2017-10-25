@@ -1,6 +1,15 @@
-ks_alfa_romeo_155_v6: Windows_D_internal.png
-ks_porsche_911_gt3_r_2016: EXT_Banner.dds
-ks_porsche_911_carrera_rsr: INT_Glass_sponsor.dds
+# here are some rules to fix banner textures
+# <CAR ID>: <TEXTURE NAME>
+# one car might have several textures, just put each texture per line
+
+ks_alfa_romeo_155_v6: Windows_D_internal.png            # use “#” for comments
+ks_porsche_911_gt3_r_2016: EXT_Banner.dds:dxt1          # this way, you can specify compression mode
+ks_porsche_911_carrera_rsr: INT_Glass_sponsor.dds:dxt1  # if some gradient will be detected to preserve, DXT5 (with transparency) will be used instead automatically
+
+# by default, RGB888 mode is used, with RGBA8888 in case some gradient is found
+# aka without compression, to avoid multiplying artifacts
+# those textures are quite small anyway, but default format might be changed to DXT1 using a special argument
+
 ks_porsche_962c_longtail: glasslabel_inside.dds
 ks_porsche_962c_shorttail: glasslabel_inside.dds
 ks_porsche_cayman_gt4_clubsport: EXT_banner.dds
